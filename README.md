@@ -1,1 +1,1 @@
-my code example collection
+code example collection
